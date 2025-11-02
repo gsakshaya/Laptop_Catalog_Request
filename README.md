@@ -1,4 +1,4 @@
-# Laptop Catalog Request
+# Laptop Request Catalog
 **Project Overview**
 
 This project automates the process of requesting laptops within an organization using ServiceNow’s Service Catalog.
